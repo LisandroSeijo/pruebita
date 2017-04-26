@@ -4,6 +4,7 @@
 - Maquetar lo que se aprecia en landing.jpg
 - Compilar los estilos en un archivo styles.css utilizando el comando node-sass.
 - Traer por ajax el contenido de la landing (test.json), títulos, textos, etc.
+- Pushear la rama a github.
 
 
 Premisas:
